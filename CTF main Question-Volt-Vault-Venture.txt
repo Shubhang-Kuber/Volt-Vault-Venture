@@ -6,8 +6,8 @@ Beyond, tangled branches of code and countless dead ends await in a forest of fo
 
 The vault’s heart is sealed by a name lost to myth. Only those who can untangle the final arcane message will glimpse its true form.
 
-When the shadows lift, let the name you unveil guide your hand—its power will unlock the path, if you inscribe it as the flag:
-hackemon{pdf_password_pokemontype_pokemonname}
+When the shadows lift, let the name you unveil guide your hand—its power will unlock the path, if you inscribe it as the flag
+
 
 Many will wander; few will master the current. May your mind be as sharp as a Thunderbolt, and your resolve as steady as a Raichu’s tail.”
 
